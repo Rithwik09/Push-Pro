@@ -1,0 +1,7 @@
+[
+    { "id": 1, "text1": "Your Order Has Been Shipped", "text2": "Order No: 123456 Has Shipped To Your Delivery Address", "text3": "", "color": "", "icon": "ti-gift", "color1": "primary-transparent" },
+    { "id": 2, "text1": "Discount Available", "text2": "Discount Available On Selected Products", "text3": "", "color": "", "icon": "ti-discount-2", "color1": "secondary-transparent" },
+    { "id": 3, "text1": "Account Has Been Verified", "text2": "Your Account Has Been Verified Successfully", "text3": "", "color": "", "icon": "ti-user-check", "color1": "pink-transparent" },
+    { "id": 4, "text1": "Order Placed", "text2": "Order Placed Successfully", "text3": "ID: #1116773", "color": "warning", "icon": "ti-circle-check", "color1": "warning-transparent" },
+    { "id": 5, "text1": "Order Delayed", "text2": "Order Delayed Unfortunately", "text3": "ID: 7731116", "color": "success", "icon": "ti-clock", "color1": "success-transparent" }
+]

@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "item": "Item 1",
+      "description" : "Dummy Description",
+      "quantity" : 1,
+      "hours" : 1.0,
+      "laborCost" : 232,
+      "materialCost" : 3.67
+    }
+]

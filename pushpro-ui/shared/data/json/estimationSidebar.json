@@ -1,0 +1,281 @@
+{
+  "Appliances": {
+    "Install Built-In Refrigerator": {
+      "name": "Install Built-In Refrigerator",
+      "description": "This service includes the installation of a built-in refrigerator.",
+      "quantity": 1,
+      "hours": 4,
+      "laborCost": 200,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Electric Cooktop": {
+      "name": "Install Electric Cooktop",
+      "description": "This service includes the installation of an electric cooktop.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Electric Dryer": {
+      "name": "Install Electric Dryer",
+      "description": "This service includes the installation of an electric dryer.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 100,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Gas Cooktop": {
+      "name": "Install Gas Cooktop",
+      "description": "This service includes the installation of a gas cooktop.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Gas Dryer": {
+      "name": "Install Gas Dryer",
+      "description": "This service includes the installation of a gas dryer.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 100,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Microwave Oven": {
+      "name": "Install Microwave Oven",
+      "description": "This service includes the installation of a microwave oven.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 75,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Range": {
+      "name": "Install Range",
+      "description": "This service includes the installation of a range.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Refrigerator": {
+      "name": "Install Refrigerator",
+      "description": "This service includes the installation of a refrigerator.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 75,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Trash Compactor": {
+      "name": "Install Trash Compactor",
+      "description": "This service includes the installation of a trash compactor.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 75,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Vent Hood": {
+      "name": "Install Vent Hood",
+      "description": "This service includes the installation of a vent hood.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Wall Oven": {
+      "name": "Install Wall Oven",
+      "description": "This service includes the installation of a wall oven.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Install Washing Machine": {
+      "name": "Install Washing Machine",
+      "description": "This service includes the installation of a washing machine.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 75,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Built In Dishwasher": {
+      "name": "PRODUCT Built In Dishwasher",
+      "description": "This is a built-in dishwasher.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Built In Microwave": {
+      "name": "PRODUCT Built In Microwave",
+      "description": "This is a built-in microwave.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Built In Oven": {
+      "name": "PRODUCT Built In Oven",
+      "description": "This is a built-in oven.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Built In Refrigerator": {
+      "name": "PRODUCT Built In Refrigerator",
+      "description": "This is a built-in refrigerator.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Built In Wine Fridge": {
+      "name": "PRODUCT Built In Wine Fridge",
+      "description": "This is a built-in wine fridge.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Clothes Dryer Thermal Switch": {
+      "name": "PRODUCT Clothes Dryer Thermal Switch",
+      "description": "This is a thermal switch for a clothes dryer.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Commercial Oven": {
+      "name": "PRODUCT Commercial Oven",
+      "description": "This is a commercial oven.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Convection Microwave Oven": {
+      "name": "PRODUCT Convection Microwave Oven",
+      "description": "This is a convection microwave oven.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Convection Oven": {
+      "name": "PRODUCT Convection Oven",
+      "description": "This is a convection oven.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "PRODUCT Defrost Timer": {
+      "name": "PRODUCT Defrost Timer",
+      "description": "This is a defrost timer.",
+      "quantity": 1,
+      "hours": 0,
+      "laborCost": 0,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Repair Appliances": {
+      "name": "Repair Appliances",
+      "description": "This service includes the repair of appliances.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Repair Dishwasher": {
+      "name": "Repair Dishwasher",
+      "description": "This service includes the repair of a dishwasher.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Repair Dryer": {
+      "name": "Repair Dryer",
+      "description": "This service includes the repair of a dryer.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Repair Refrigerator": {
+      "name": "Repair Refrigerator",
+      "description": "This service includes the repair of a refrigerator.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Repair Washing Machine": {
+      "name": "Repair Washing Machine",
+      "description": "This service includes the repair of a washing machine.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Replace Electric Dryer": {
+      "name": "Replace Electric Dryer",
+      "description": "This service includes the replacement of an electric dryer.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 100,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Replace Gas Cooktop": {
+      "name": "Replace Gas Cooktop",
+      "description": "This service includes the replacement of a gas cooktop.",
+      "quantity": 1,
+      "hours": 2,
+      "laborCost": 150,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Replace Gas Dryer": {
+      "name": "Replace Gas Dryer",
+      "description": "This service includes the replacement of a gas dryer.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 100,
+      "quantityRatio" : 1,
+      "materialCost" : 6
+    },
+    "Replace Washing Machine": {
+      "name": "Replace Washing Machine",
+      "description": "This service includes the replacement of a washing machine.",
+      "quantity": 1,
+      "hours": 1,
+      "laborCost": 75
+    }
+  }
+}

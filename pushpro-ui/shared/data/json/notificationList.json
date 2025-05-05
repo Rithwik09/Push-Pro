@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "avatar": "../../../assets/images/faces/4.jpg",
+      "type": "Requirement Received",
+      "message": "The project has been assigned by Oscar Posadas",
+      "timestamp": "12 mins ago",
+      "date": "17,May 2024"
+  },
+  {
+      "id": 2,
+      "avatar": "../../../assets/images/faces/15.jpg",
+      "type": "Comments from Customer",
+      "message": "Your work request has been accepted by admin and other team members.",
+      "timestamp": "17 mins ago",
+      "date": "17,May 2024"
+  },
+  {
+      "id": 3,
+      "avatar": "../../../assets/images/faces/11.jpg",
+      "type": "Estimation Approved",
+      "message": "The estimation has been approved By Oscar Posadas",
+      "timestamp": "4 hrs ago",
+      "date": "17,May 2024"
+  },
+  {
+      "id": 4,
+      "avatar": "../../../assets/images/faces/4.jpg",
+      "type": "Estimation Reviewed by Customer",
+      "message": "The project has been reviewed by Oscar Posadas",
+      "timestamp": "12 mins ago",
+      "date": "17,May 2024"
+  },
+  {
+      "id": 5,
+      "avatar": "../../../assets/images/faces/4.jpg",
+      "type": "Estimation Rejected",
+      "message": "The estimation has been rejected by Oscar Posadas. Please revise and resubmit.",
+      "timestamp": "12 mins ago",
+      "date": "17,May 2024"
+  },
+  {
+    "id": 6,
+    "avatar": "../../../assets/images/faces/11.jpg",
+    "type": "Estimation Reviewed By Customer",
+    "message": "The estimation has been reviewed By Customer",
+    "timestamp": "4 hrs ago",
+    "date": "17,May 2024"
+}
+]

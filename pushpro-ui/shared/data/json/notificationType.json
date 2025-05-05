@@ -1,0 +1,7 @@
+[
+    { "value": "Requirements Received", "label": "Requirements Received" },
+    { "value": "Estimation Reviewed By Customer ", "label": "Estimation Reviewed By Customer" },
+    { "value": "Comments from Customer", "label": "Comments from Customer" },
+    { "value": "Estimation Approved", "label": "Estimation Approved" },
+    { "value": "Estimation Rejected", "label": "Estimation Rejected" }
+]

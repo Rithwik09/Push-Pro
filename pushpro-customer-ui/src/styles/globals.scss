@@ -1,0 +1,14 @@
+@import "../../public/assets/css/styles.css";
+@import "../../public/assets/css/custom.css";
+@import "../../public/assets/css/icons.css";
+@import "../../public/assets/css/custom.css";
+
+//color pickers
+@import "@simonwep/pickr/dist/themes/classic.min.css";
+@import "@simonwep/pickr/dist/themes/monolith.min.css";
+@import "@simonwep/pickr/dist/themes/nano.min.css";
+
+
+.accordion .nav-link.active{
+    background: none !important;
+}

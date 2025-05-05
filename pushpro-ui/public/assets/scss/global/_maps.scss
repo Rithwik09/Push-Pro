@@ -1,0 +1,45 @@
+#users-map {
+    .controls {
+      margin-block-start: 0.25rem!important;
+      .btn {
+        svg {
+          width: 15px;
+          height: 15px;
+          line-height: 0;
+          fill: #000;
+          color: white;
+          background-color: #000 !important;
+          
+        }
+        padding: 0 !important;
+        border-color: #000 !important;
+      }
+    }
+    .rsm-svg {
+      height: 230px;
+      width: 100%;
+    }
+    overflow: hidden;
+  }
+  #users-map .controls .btn {
+    line-height: 1;
+    border-radius: 3px !important;
+    margin-inline-start: 3px;
+  }
+  //
+#marker-map svg {
+    width: 100%!important;
+    height: 360px!important;
+  }
+  #russia-map svg, #us-map svg, #marker-image-map svg, #lines-map svg, #marker-map svg {
+    width: 100%!important;
+    height: 310px!important;
+  }
+  #vector-map svg {
+    width: 100%!important;
+    height: 337px!important;
+  }
+  .leaflet-container {
+    min-height: 350px;
+    z-index: 3;
+  }

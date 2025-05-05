@@ -1,0 +1,22 @@
+[
+    { "value": "Plumbing", "label": "Plumbing" },
+    { "value": "Electrical", "label": "Electrical" },
+    { "value": "HVAC", "label": "HVAC" },
+    { "value": "Siding", "label": "Siding" },
+    { "value": "Interior Paint", "label": "Interior Paint" },
+    { "value": "Exterior Paint", "label": "Exterior Paint" },
+    { "value": "Roofing", "label": "Roofing" },
+    { "value": "Drywall", "label": "Drywall" },
+    { "value": "Concrete", "label": "Concrete" },
+    { "value": "Tile", "label": "Tile" },
+    { "value": "Stone/Masonry/Brick/Stucco", "label": "Stone/Masonry/Brick/Stucco" },
+    { "value": "Fence", "label": "Fence" },
+    { "value": "Deck", "label": "Deck" },
+    { "value": "Flooring (Epoxy)", "label": "Flooring (Epoxy)" },
+    { "value": "Flooring (LVP/Carpet)", "label": "Flooring (LVP/Carpet)" },
+    { "value": "Insulation", "label": "Insulation" },
+    { "value": "Countertops", "label": "Countertops" },
+    { "value": "Cabinetry", "label": "Cabinetry" },
+    { "value": "Gutters", "label": "Gutters" },
+    { "value": "Landscaping", "label": "Landscaping" }
+]

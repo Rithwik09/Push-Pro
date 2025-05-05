@@ -1,0 +1,696 @@
+{
+    "activeChats": [
+      {
+        "id": 1,
+        "name": "Sujika",
+        "projectName" : "Project 1",
+        "time": "1:32 PM",
+        "message": "Need to go for lunch?",
+        "img": "../../../assets/images/faces/5.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Sujika",
+            "time": "11:48 PM",
+            "messages": ["Nice to meet you 😊"],
+            "img": "../../../assets/images/faces/5.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:50 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["It is a long established fact that a reader will be distracted" , " by the readable content of a page when looking at its layout"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Sujika",
+            "time": "11:51 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Who are you ?", "I don't know anyone named jeremiah."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:52 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Some of the recent images taken are nice 😄"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Sujika",
+            "time": "11:55 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Here are some of them have a look"],
+            "images": [
+              "../../../assets/images/faces/5.jpg",
+              "../../../assets/images/faces/5.jpg",
+              "../../../assets/images/faces/5.jpg"
+            ]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:52 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Looks Nice 😄"]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Sujika",
+            "time": "11:45 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Happy to talk with you, chat you later ....😋 Sujika"]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Emiley Jackson",
+        "projectName" : "Lorem ipsum lorem ipsum lorem ipsum",
+        "time": "1:16 PM",
+        "message": "Nice to meet you 😊",
+        "img": "../../../assets/images/faces/5.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Emiley Jackson",
+            "time": "11:48 PM",
+            "messages": ["Nice to meet you 😊"],
+            "img": "../../../assets/images/faces/5.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:50 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["It is a long established fact that a reader will be distracted" , " by the readable content of a page when looking at its layout"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Emiley Jackson",
+            "time": "11:51 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Who are you ?", "I don't know anyone named jeremiah."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:52 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Some of the recent images taken are nice 😄"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Emiley Jackson",
+            "time": "11:55 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Here are some of them have a look"],
+            "images": [
+              "../../../assets/images/faces/5.jpg",
+              "../../../assets/images/faces/5.jpg",
+              "../../../assets/images/faces/5.jpg"
+            ]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:52 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Looks Nice 😄"]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Emiley Jackson",
+            "time": "11:45 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Happy to talk with you, chat you later 😋 Emiley"]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Alexandra Smith",
+        "projectName": "Project 3",
+        "time": "2:00 PM",
+        "message": "Let's discuss the new design.",
+        "img": "../../../assets/images/faces/3.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Alexandra Smith",
+            "time": "10:30 AM",
+            "messages": ["Can we meet tomorrow?"],
+            "img": "../../../assets/images/faces/3.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "10:35 AM",
+            "img": "../../../assets/images/faces/3.jpg",
+            "messages": ["Sure, what time?"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Alexandra Smith",
+            "time": "10:40 AM",
+            "img": "../../../assets/images/faces/3.jpg",
+            "messages": ["How about 2  PM?"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "10:42 AM",
+            "img": "../../../assets/images/faces/3.jpg",
+            "messages": ["Works for me!"]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Alexandra Smith",
+            "time": "10:45 AM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Great, see you then!"]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "projectName": "Project 4",
+        "time": "3:10 PM",
+        "message": "Any updates on the task?",
+        "img": "../../../assets/images/faces/4.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Michael Brown",
+            "time": "11:00 AM",
+            "messages": ["Hey, how's it going?"],
+            "img": "../../../assets/images/faces/4.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:05 AM",
+            "img": "../../../assets/images/faces/4.jpg",
+            "messages": ["Good, just working on the project."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Michael Brown",
+            "time": "11:10 AM",
+            "img": "../../../assets/images/faces/4.jpg",
+            "messages": ["Need any help?"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "11:12 AM",
+            "img": "../../../assets/images/faces/4.jpg",
+            "messages": ["Not right now, but thanks."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Michael Brown",
+            "time": "11:15 AM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Alright, let me know if you do."]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Jessica Lee",
+        "projectName": "Project 5",
+        "time": "4:20 PM",
+        "message": "Can you review the document?",
+        "img": "../../../assets/images/faces/5.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Jessica Lee",
+            "time": "12:00 PM",
+            "messages": ["Hi, can you check the report?"],
+            "img": "../../../assets/images/faces/5.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "12:05 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Sure, give me a moment."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Jessica Lee",
+            "time": "12:10 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Thanks!"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "12:12 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["All done, looks good."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Jessica Lee",
+            "time": "12:15 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Great, appreciate it!"]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "David Johnson",
+        "projectName": "Project 6",
+        "time": "5:15 PM",
+        "message": "Let's wrap up the discussion.",
+        "img": "../../../assets/images/faces/6.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "David Johnson",
+            "time": "9:00 AM",
+            "messages": ["Are you free for a call?"],
+            "img": "../../../assets/images/faces/6.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "9:05 AM",
+            "img": "../../../assets/images/faces/6.jpg",
+            "messages": ["Yes, in 10 minutes?"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "David Johnson",
+            "time": "9:10 AM",
+            "img": "../../../assets/images/faces/6.jpg",
+            "messages": ["Perfect."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "9:15 AM",
+            "img": "../../../assets/images/faces/6.jpg",
+            "messages": ["Calling now."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "David Johnson",
+            "time": "9:20 AM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Talk to you soon."]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Emily Davis",
+        "projectName": "Project 7",
+        "time": "6:30 PM",
+        "message": "Let's catch up later.",
+        "img": "../../../assets/images/faces/7.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Emily Davis",
+            "time": "2:30 PM",
+            "messages": ["Can you send me the files?"],
+            "img": "../../../assets/images/faces/7.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "2:35 PM",
+            "img": "../../../assets/images/faces/7.jpg",
+            "messages": ["Sure, sending now."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Emily Davis",
+            "time": "2:40 PM",
+            "img": "../../../assets/images/faces/7.jpg",
+            "messages": ["Got them, thanks!"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "2:45 PM",
+            "img": "../../../assets/images/faces/7.jpg",
+            "messages": ["No problem."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Emily Davis",
+            "time": "2:50 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Talk to you later."]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Chris Wilson",
+        "projectName": "Project 8",
+        "time": "7:45 PM",
+        "message": "Meeting rescheduled to tomorrow.",
+        "img": "../../../assets/images/faces/8.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Chris Wilson",
+            "time": "1:30 PM",
+            "messages": ["Hey, are you coming to the meeting?"],
+            "img": "../../../assets/images/faces/8.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "1:35 PM",
+            "img": "../../../assets/images/faces/8.jpg",
+            "messages": ["Yes, I'll be there."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Chris Wilson",
+            "time": "1:40 PM",
+            "img": "../../../assets/images/faces/8.jpg",
+            "messages": ["Great, see you soon."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "1:45 PM",
+            "img": "../../../assets/images/faces/8.jpg",
+            "messages": ["See you."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Chris Wilson",
+            "time": "1:50 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Bye!"]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Amanda Clark",
+        "projectName": "Project 9",
+        "time": "8:55 PM",
+        "message": "Can you help with this issue?",
+        "img": "../../../assets/images/faces/3.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Amanda Clark",
+            "time": "3:00 PM",
+            "messages": ["Hi, can you assist me with a problem?"],
+            "img": "../../../assets/images/faces/9.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "3:05 PM",
+            "img": "../../../assets/images/faces/9.jpg",
+            "messages": ["Of course, what's up?"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Amanda Clark",
+            "time": "3:10 PM",
+            "img": "../../../assets/images/faces/9.jpg",
+            "messages": ["I'm stuck on this code issue."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "3:15 PM",
+            "img": "../../../assets/images/faces/9.jpg",
+            "messages": ["Let's take a look."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Amanda Clark",
+            "time": "3:20 PM",
+            "messages": ["Thanks a lot!"]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "John Walker",
+        "projectName": "Project 10",
+        "time": "9:00 PM",
+        "message": "Let's plan for next week.",
+        "img": "../../../assets/images/faces/10.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "John Walker",
+            "time": "4:00 PM",
+            "messages": ["Can we schedule a meeting for next week?"],
+            "img": "../../../assets/images/faces/10.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "4:05 PM",
+            "img": "../../../assets/images/faces/10.jpg",
+            "messages": ["Yes, what day works for you?"]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "John Walker",
+            "time": "4:10 PM",
+            "img": "../../../assets/images/faces/10.jpg",
+            "messages": ["How about Tuesday?"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "4:15 PM",
+            "img": "../../../assets/images/faces/10.jpg",
+            "messages": ["Tuesday is good."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "John Walker",
+            "time": "4:20 PM",
+            "img": "../../../assets/images/faces/5.jpg",
+            "messages": ["Alright, let's confirm it."]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Lisa Martinez",
+        "projectName": "Project 11",
+        "time": "10:15 PM",
+        "message": "Looking forward to your feedback.",
+        "img": "../../../assets/images/faces/11.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Lisa Martinez",
+            "time": "5:00 PM",
+            "messages": ["Can you review my work?"],
+            "img": "../../../assets/images/faces/11.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "5:05 PM",
+            "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Sure, sending feedback shortly."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Lisa Martinez",
+            "time": "5:10 PM",
+            "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Thank you!"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "5:15 PM",
+            "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Just sent it over."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Lisa Martinez",
+            "time": "5:20 PM",
+        "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Got it, thanks again!"]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Kevin White",
+        "projectName": "Project 12",
+        "time": "11:20 PM",
+        "message": "We need to finalize the details.",
+        "img": "../../../assets/images/faces/12.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Kevin White",
+            "time": "6:00 PM",
+            "messages": ["Can you check the last email?"],
+            "img": "../../../assets/images/faces/12.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "6:05 PM",
+            "img": "../../../assets/images/faces/12.jpg",
+            "messages": ["Just did, looks good."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Kevin White",
+            "time": "6:10 PM",
+            "img": "../../../assets/images/faces/12.jpg",
+            "messages": ["Awesome, thanks!"]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "6:15 PM",
+            "img": "../../../assets/images/faces/12.jpg",
+            "messages": ["You're welcome."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Kevin White",
+            "time": "6:20 PM",
+        "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Chat later."]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Rachel Green",
+        "projectName": "Project 13",
+        "time": "12:00 AM",
+        "message": "When can we have a call?",
+        "img": "../../../assets/images/faces/13.jpg",
+        "chatContent": [
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Rachel Green",
+            "time": "7:00 PM",
+            "messages": ["Can we discuss the budget?"],
+            "img": "../../../assets/images/faces/13.jpg"
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "7:05 PM",
+            "img": "../../../assets/images/faces/13.jpg",
+            "messages": ["Yes, I'm free now."]
+          },
+          {
+            "type": "from",
+            "status": "chatstatusperson",
+            "name": "Rachel Green",
+            "time": "7:10 PM",
+            "img": "../../../assets/images/faces/13.jpg",
+            "messages": ["Let's call."]
+          },
+          {
+            "type": "to",
+            "status": "",
+            "name": "You",
+            "time": "7:15 PM",
+            "img": "../../../assets/images/faces/13.jpg",
+            "messages": ["Calling now."]
+          },
+          {
+            "type": "from",
+            "status": "chatnameperson",
+            "name": "Rachel Green",
+            "time": "7:20 PM",
+        "img": "../../../assets/images/faces/11.jpg",
+            "messages": ["Talk to you soon."]
+          }
+        ]
+      } 
+    ]
+  }
+  

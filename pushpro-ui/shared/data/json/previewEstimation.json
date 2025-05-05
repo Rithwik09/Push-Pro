@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Remove Concrete Slab",
+    "description": "Board Up 25 Sq Ft Opening. Fabricate And Secure Plywood Over Window Or Door Opening.",
+    "quantity": "20 SF",
+    "hours": 1.7,
+    "laborCost": "$85.54",
+    "materialCost" : "$20.00",
+    "total" : "$105.54"
+  },
+  {
+    "name": "Install Electric Cooktop",
+    "description": "Jackhammer Concrete Into Movable Pieces. Remove All Concrete And Reinforcing Material.",
+    "quantity": "1 EA",
+    "hours": 1.6,
+    "laborCost": "$189.54",
+    "materialCost" : "$27.91",
+    "total" : "$217.45"
+  },
+  {
+    "name": "Clean AC Ducts",
+    "description": "Brush, Vacuum And Remove Dust, Pollen And Surface Mold Inside Ducting, Registers, And Grills.",
+    "quantity": "1 EA",
+    "hours": 1.4,
+    "laborCost": "$160.09",
+    "materialCost" : "$25.91",
+    "total" : "$186"
+  },
+  {
+    "name": "Frame Basement Walls",
+    "description": "Layout, Fabricate And Install Conventional Wood Framed Wall Using 2\"X4\" Treated Studs Spaced 16\" On Center.",
+    "quantity": "20 SF",
+    "hours": 1.0,
+    "laborCost": "$106.42",
+    "materialCost" : "$4.21",
+    "total" : " $110.63"
+  }
+]

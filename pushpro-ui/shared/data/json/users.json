@@ -1,0 +1,44 @@
+[
+    {
+      "email": "admin@ranucle.com",
+      "password": "Admin@123"
+    },
+    {
+      "email": "user@ranucle.com",
+      "password": "Admin@123"
+    },
+    {
+      "firstName" : "Oscar" ,
+      "lastName" : "Posadas",
+      "email" : "oscar@posadas.com",
+      "phone" : "7077569812",
+      "password" : "Admin@123"
+    },
+    {
+      "companyName": "Example Company",
+      "phone": "1234567890",
+      "address1": "123 Main Street",
+      "address2": "Apt 101",
+      "city": "New York",
+      "state": "NY",
+      "country": "United States",
+      "zip": "10001",
+      "businessNumber": "987654321",
+      "email": "example@example.com",
+      "phone2": "9876543210",
+      "faxNumber": "123456789",
+      "website": "www.example.com",
+      "websiteUrl": "https://www.example.com",
+      "facebookUrl": "https://www.facebook.com/example",
+      "googleUrl": "https://www.google.com",
+      "instagramUrl": "https://www.instagram.com/example",
+      "yelpUrl": "https://www.yelp.com",
+      "industry": [
+        "Plumbing",
+        "Electrical",
+        "Interior Paint"
+      ]
+    }
+    
+  ]
+  

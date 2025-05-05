@@ -1,0 +1,10 @@
+[
+    { "value": "Drafted", "label": "Drafted" ,"id": 1},
+    { "value": "Requirements Received", "label": "Requirements Received" ,"id": 2},
+    { "value": "Estimation Created", "label": "Estimation Created" ,"id": 3},
+    { "value": "Estimation Sent", "label": "Estimation Sent" ,"id":4},
+    { "value": "Estimation Approved", "label": "Estimation Approved" ,"id":5},
+    { "value": "Estimation Rejected", "label": "Estimation Rejected" ,"id":6},
+    { "value": "In Progress", "label": "In Progress", "id":7},
+    { "value": "Completed", "label": "Completed" , "id":8}
+]

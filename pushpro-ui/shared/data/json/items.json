@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "item": "Item 1",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "10.00"
+  },
+  {
+    "id": 2,
+    "item": "Item 2",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "15.50"
+  },
+  {
+    "id": 3,
+    "item": "Item 3",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "20.00"
+  },
+  {
+    "id": 4,
+    "item": "Item 4",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "12.75"
+  },
+  {
+    "id": 5,
+    "item": "Item 5",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "8.99"
+  },
+  {
+    "id": 6,
+    "item": "Item 6",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "25.00"
+  },
+  {
+    "id": 7,
+    "item": "Item 7",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "18.25"
+  },
+  {
+    "id": 8,
+    "item": "Item 8",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "9.50"
+  },
+  {
+    "id": 9,
+    "item": "Item 9",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "30.99"
+  },
+  {
+    "id": 10,
+    "item": "TItem 0",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "17.49"
+  },
+  {
+    "id": 11,
+    "item": "TItem 1",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "14.00"
+  },
+  {
+    "id": 12,
+    "item": "TItem 2",
+    "description" : "Dummy Description",
+    "quantity" : 1,
+    "hours" : 1.0,
+    "laborCost" : 232,
+    "materialCost" : 3.67,
+    "rate": "11.25"
+  }
+]

@@ -1,0 +1,7 @@
+[
+    { "value": "Estimation Created", "label": "Estimation Created" },
+    { "value": "Estimation Received", "label": "Estimation Received" },
+    { "value": "Comments from Contractor", "label": "Comments from Contractor" },
+    { "value": "Work Started", "label": "Work Started" },
+    { "value": "Work Completed", "label": "Work Completed" }
+]
