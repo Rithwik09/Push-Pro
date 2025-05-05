@@ -5,10 +5,10 @@ Push-Pro is a modular web application designed to support both customer and admi
 
 ## 📁 Project Structure
 push-pro/
-├── pushpro-api/ # Backend API (e.g., Express.js or NestJS)
-├── pushpro-ui/ # Shared UI components or landing page
-├── pushpro-customer-ui/ # Frontend for customers
-├── pushpro-admin-ui/ # Admin dashboard (excluded from Git)
+-├── pushpro-api/ # Backend API (e.g., Express.js or NestJS)
+-├── pushpro-ui/ # Shared UI components or landing page
+-├── pushpro-customer-ui/ # Frontend for customers
+-├── pushpro-admin-ui/ # Admin dashboard (excluded from Git)
 
 ## 🧰 Technologies Used
 
